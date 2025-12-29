@@ -7,9 +7,9 @@ I am an Assistant Professor (RTD-A) in Computer Engineering at [Sapienza Univers
 ## Publications
 
 #### Journal Papers
-- [Improving the Understandability of Declarative Process Discovery Results Using easyDeclare](http://dx.doi.org/10.2139/ssrn.4975617){:.pt}{:target="_blank"}
+- [Improving the Understandability of Declarative Process Discovery Results Using easyDeclare](https://doi.org/10.1016/j.is.2025.102667){:.pt}{:target="_blank"}
   <span class="pa">Blasilli, Ferro, Lenti, Maggi, Marrella, and Catarci</span>
-  <span class="pv">Preprint under minor review to Information Systems, 2025</span>
+  <span class="pv">Information Systems, 2025</span>
 - [A Visual Analytics Conceptual Framework for Explorable and Steerable Partial Dependence Analysis](https://doi.org/10.1109/TVCG.2023.3263739){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Lenti, and Santucci</span>
   <span class="pv">IEEE Transactions on Visualization and Computer Graphics, 2023</span>
@@ -23,6 +23,7 @@ I am an Assistant Professor (RTD-A) in Computer Engineering at [Sapienza Univers
   <span class="pa">Angelini, Blasilli, Catarci, Lenti, and Santucci</span>
   <span class="pv">IEEE Transactions on Visualization and Computer Graphics, 2019</span>
 {:.pub .pub-journals}
+
 
 #### Conference Papers
 - [True (VIS) Lies: A Preliminary Analysis of How Generative AI is Capable of Recognizing Visualization Lies and their Rhetoric](https://github.com/blasilli/TrueVISLies){:.pt}{:target="_blank"}
@@ -76,6 +77,7 @@ I am an Assistant Professor (RTD-A) in Computer Engineering at [Sapienza Univers
   <span class="pa">Angelini, Blasilli, Lenti, and Santucci</span>
   <span class="pv">International Conference Information Visualisation (IV), 2018</span>
 {:.pub .pub-conferences}
+
 
 #### Posters
 - [Differential Gene Expression Analysis with Visual Analytics](https://doi.org/10.2312/evp.20251126){:.pt}{:target="_blank"}
