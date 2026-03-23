@@ -1,24 +1,32 @@
 ---
 layout: default
 ---
-I am an Assistant Professor (RTD-A) in Computer Engineering at [Sapienza Università di Roma](https://www.uniroma1.it){:target="_blank"}, and member of [A.W.A.RE](http://aware.diag.uniroma1.it){:target="_blank"} research group. My research interests include Visual Analytics and InfoVis, mainly applied to the eXpainable Artificial Intelligence (XAI) methods, to the Cybersecurity domain, and Medical domain.
+I am an Assistant Professor (RTD-A) in Computer Engineering at [Sapienza Università di Roma](https://www.uniroma1.it){:target="_blank"}, and member of [A.W.A.RE](http://aware.diag.uniroma1.it){:target="_blank"} research group. My research interests include Visual Analytics and InfoVis, mainly applied to the eXpainable Artificial Intelligence (XAI) methods, to the cybersecurity domain, and medical domain.
 
 <hr>
 ## Publications
 
 #### Journal Papers
+- [GEVIS: A Workflow-Driven Visual Analytics Approach to Differential Gene Expression Analysis](https://doi.org){:.pt}{:target="_blank"}
+  <span class="pa">Blasilli, Fortunato, Santaroni, Fiscon, and Santucci</span>
+  <span class="pv">Computer Graphics Forum, 2026. -- TO APPEAR</span>
+
 - [Improving the Understandability of Declarative Process Discovery Results Using easyDeclare](http://dx.doi.org/10.2139/ssrn.4975617){:.pt}{:target="_blank"}
   <span class="pa">Blasilli, Ferro, Lenti, Maggi, Marrella, and Catarci</span>
   <span class="pv">Preprint under minor review to Information Systems, 2025</span>
+
 - [A Visual Analytics Conceptual Framework for Explorable and Steerable Partial Dependence Analysis](https://doi.org/10.1109/TVCG.2023.3263739){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Lenti, and Santucci</span>
   <span class="pv">IEEE Transactions on Visualization and Computer Graphics, 2023</span>
+
 - [State of the Art of Visual Analytics for eXplainable Deep Learning](https://doi.org/10.1111/cgf.14733){:.pt}{:target="_blank"}
   <span class="pa">La Rosa, Blasilli, Bourqui, Auber, Santucci, Capobianco, Bertini, Giot, and Angelini</span>
   <span class="pv">Computer Graphics Forum, 2023.</span>
+
 - [Effectiveness Error: Measuring and Improving RadViz Visual Effectiveness](https://doi.org/10.1109/TVCG.2021.3104879){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Lenti, Palleschi and Santucci</span>
   <span class="pv">IEEE Transactions on Visualization and Computer Graphics, 2021</span>
+
 - [Vulnus: Visual Vunerability Analysis for Network Security](https://doi.org/10.1109/TVCG.2018.2865028){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Catarci, Lenti, and Santucci</span>
   <span class="pv">IEEE Transactions on Visualization and Computer Graphics, 2019</span>
@@ -35,7 +43,7 @@ I am an Assistant Professor (RTD-A) in Computer Engineering at [Sapienza Univers
   <span class="pa">Fortunato, Santaroni, Blasilli, Fiscon, Lenti, and Santucci</span>
   <span class="pv">EuroVis 2025 - Posters, 2025</span>
 - [Smart assistive technology for vulnerable people in public services: a multi-approach didactic framework](https://doi.org/10.35199/EPDE.2025.101){:.pt}{:target="_blank"}
-  <span class="pa">Saviano, Ershova, Malakuczi, and Blasilli}</span>
+  <span class="pa">Saviano, Ershova, Malakuczi, and Blasilli</span>
   <span class="pv">DS 137: Proceedings of the International Conference on Engineering and Product Design Education, 2025</span>
 - [Towards a Visual Perception-Based Analysis of Clustering Quality Metrics](https://doi.org/10.1109/VDS63897.2024.00007){:.pt}{:target="_blank"}
   <span class="pa">Blasilli, Kerrigan, Bertini, and Santucci</span>
