@@ -7,13 +7,14 @@ I am an Assistant Professor (RTD-A) in Computer Engineering at [Sapienza Univers
 ## Publications
 
 #### Journal Papers
-- [GEVIS: A Workflow-Driven Visual Analytics Approach to Differential Gene Expression Analysis](https://doi.org){:.pt}{:target="_blank"}
+- [GEVIS: A Workflow-Driven Visual Analytics Approach to Differential Gene Expression Analysis](https://doi.org/10.1111/cgf.70457){:.pt}{:target="_blank"}
   <span class="pa">Blasilli, Fortunato, Santaroni, Fiscon, and Santucci</span>
-  <span class="pv">Computer Graphics Forum, 2026. -- TO APPEAR</span>
+  <span class="pv">Computer Graphics Forum, 2026.</span>
 
 - [Improving the Understandability of Declarative Process Discovery Results Using easyDeclare](https://doi.org/10.1016/j.is.2025.102667){:.pt}{:target="_blank"}
   <span class="pa">Blasilli, Ferro, Lenti, Maggi, Marrella, and Catarci</span>
   <span class="pv">Information Systems, 2025</span>
+
 - [A Visual Analytics Conceptual Framework for Explorable and Steerable Partial Dependence Analysis](https://doi.org/10.1109/TVCG.2023.3263739){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Lenti, and Santucci</span>
   <span class="pv">IEEE Transactions on Visualization and Computer Graphics, 2023</span>
@@ -31,55 +32,78 @@ I am an Assistant Professor (RTD-A) in Computer Engineering at [Sapienza Univers
   <span class="pv">IEEE Transactions on Visualization and Computer Graphics, 2019</span>
 {:.pub .pub-journals}
 
+#### Preprints
+- [ProVega: A Grammar to Ease the Prototyping, Creation, and Reproducibility of Progressive Data Analysis and Visualization Solutions](https://doi.org/10.48550/arXiv.2604.02096){:.pt}{:target="_blank"}
+  <span class="pa">Filosa, Blasilli, Martino, and Angelini</span>
+  <span class="pv">2026</span>
+
+- [True (VIS) Lies: Analyzing How Generative AI Recognizes Intentionality, Rhetoric, and Misleadingness in Visualization Lies](https://doi.org/10.48550/arXiv.2604.01181){:.pt}{:target="_blank"}
+  <span class="pa">Blasilli and Angelini</span>
+  <span class="pv">2026</span>
 
 #### Conference Papers
-- [True (VIS) Lies: A Preliminary Analysis of How Generative AI is Capable of Recognizing Visualization Lies and their Rhetoric](https://github.com/blasilli/TrueVISLies){:.pt}{:target="_blank"}
+- [True (VIS) Lies: A Preliminary Analysis of How Generative AI is Capable of Recognizing Visualization Lies and their Rhetoric]([https://github.com/blasilli/TrueVISLies](https://visxgenai.github.io/subs-2025/9766/9766-doc.pdf)){:.pt}{:target="_blank"}
   <span class="pa">Blasilli and Angelini</span>
   <span class="pv">1st Workshop on GenAI, Agents, and the Future of VIS. IEEE VIS, 2025</span>
+
 - [Bridging Service Design, Visualizations, and Visual Analytics in Healthcare Digital Twins: Challenges, Gaps, and Research Opportunities](https://arxiv.org/abs/2506.24104){:.pt}{:target="_blank"}
   <span class="pa">Ershova and Blasilli</span>
   <span class="pv">16th workshop on Visual Analytics in Healthcare, 2025</span>
+
 - [Differential Gene Expression Analysis with Visual Analytics](https://doi.org/10.2312/evp.20251126){:.pt}{:target="_blank"}
   <span class="pa">Fortunato, Santaroni, Blasilli, Fiscon, Lenti, and Santucci</span>
   <span class="pv">EuroVis 2025 - Posters, 2025</span>
+
 - [Smart assistive technology for vulnerable people in public services: a multi-approach didactic framework](https://doi.org/10.35199/EPDE.2025.101){:.pt}{:target="_blank"}
   <span class="pa">Saviano, Ershova, Malakuczi, and Blasilli</span>
   <span class="pv">DS 137: Proceedings of the International Conference on Engineering and Product Design Education, 2025</span>
+
 - [Towards a Visual Perception-Based Analysis of Clustering Quality Metrics](https://doi.org/10.1109/VDS63897.2024.00007){:.pt}{:target="_blank"}
   <span class="pa">Blasilli, Kerrigan, Bertini, and Santucci</span>
   <span class="pv">IEEE Visualization in Data Science (VDS), 2024</span>
+
 - [EDD: A Web-Based Editor for Declarative Process Models Using easyDeclare]([https://ceur-ws.org/](https://ceur-ws.org/Vol-3783/paper_364.pdf)){:.pt}{:target="_blank"}
   <span class="pa">Blasilli, Ferro, Lenti, Maggi, Marrella, and Catarci</span>
   <span class="pv">ICPM Doctoral Consortium and Demo Track, 2024</span>
+
 - [BUCEPHALUS: a BUsiness CEntric cybersecurity Platform for proActive anaLisys Using visual analyticS](https://doi.org/10.1109/VizSec53666.2021.00007){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Bonomi, Lenti, Palleschi, Santucci, and De Paoli</span>
   <span class="pv">IEEE Symposium on Visualization for Cyber Security (VizSec), 2021</span>
+
 - [Lessons learned while supporting Cyber Situational Awareness](https://doi.org/10.2312/eurova.20211093){:.pt}{:target="_blank"}
   <span class="pa">Blasilli, De Paoli, Lenti, and Picca</span>
   <span class="pv">EuroVis Workshop on Visual Analytics (EuroVA), 2021</span>
+
 - [CrossWidgets: Enhancing Complex Data Selections through Modular Multi Attribute Selectors](https://doi.org/10.1145/3399715.3399918){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Lenti, Palleschi, and Santucci</span>
   <span class="pv">International Conference on Advanced Visual Interfaces (AVI), 2020</span>
   <b class="paward">Best Paper Honorable Mention</b>
+
 - [SymNav: Visually Assisting Symbolic Execution](https://doi.org/10.1109/VizSec48167.2019.9161524){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Borzacchiello, Coppa, D’Elia, Demetrescu, Lenti, Nicchi, and Santucci</span>
   <span class="pv">IEEE Symposium on Visualization for Cyber Security (VizSec), 2019</span>
+
 - [Towards Enhancing RadViz Analysis and Interpretation](https://doi.org/10.1109/VISUAL.2019.8933775){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Lenti, Palleschi, and Santucci</span>
   <span class="pv">IEEE Visualization Conference (VIS), 2019</span>
+
 - [NEMESIS (NEtwork MEdicine analySIS): Towards Visual Exploration of Network Medicine Data](https://doi.org/10.5220/0007577003220329){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Farina, Lenti, and Santucci</span>
   <span class="pv">IEEE Symposium on Visualization for Cyber Security (VizSec), 2018</span>
+
 - [Ropmate: Visually assisting the creation of rop-based exploits](https://doi.org/10.1109/VIZSEC.2018.8709204){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Borrello, Coppa, D’Elia, Ferracci, Lenti, and Santucci</span>
   <span class="pv">IEEE Symposium on Visualization for Cyber Security (VizSec), 2018</span>
   <b class="paward">Best Paper Award</b>
+
 - [STEIN: Speeding up Evaluation Activities With a Seamless Testing Environment INtegrator](https://diglib.eg.org/handle/10.2312/eurovisshort20181083){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Lenti, and Santucci</span>
   <span class="pv">EuroVis - Short Papers, 2018</span>
+
 - [Visual exploration and analysis of the italian cybersecurity framework](https://doi.org/10.1145/3206505.3206579){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Lenti, and Santucci</span>
   <span class="pv">International Conference on Advanced Visual Interfaces (AVI), 2018</span>
+
 - [Guess what I want: I am in hurry and I am using my phone while driving](https://doi.org/10.1109/iV.2018.00034){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Lenti, and Santucci</span>
   <span class="pv">International Conference Information Visualisation (IV), 2018</span>
@@ -90,6 +114,7 @@ I am an Assistant Professor (RTD-A) in Computer Engineering at [Sapienza Univers
 - [Differential Gene Expression Analysis with Visual Analytics](https://doi.org/10.2312/evp.20251126){:.pt}{:target="_blank"}
   <span class="pa">Fortunato, Santaroni, Blasilli, Fiscon, Lenti, Santucci</span>
   <span class="pv">EuroVis - Posters, 2025</span>
+
 - [CrossWidget: a D3.js Plugin to Support Multiple Scented Cross Filtering Activities](https://doi.org/10.2312/eurp.20191131){:.pt}{:target="_blank"}
   <span class="pa">Blasilli, Palleschi, and Lenti</span>
   <span class="pv">EuroVis - Posters, 2019</span>
