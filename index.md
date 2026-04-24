@@ -33,6 +33,7 @@ I am an Assistant Professor (RTD-A) in Computer Engineering at [Sapienza Univers
 {:.pub .pub-journals}
 
 #### Preprints
+
 - [ProVega: A Grammar to Ease the Prototyping, Creation, and Reproducibility of Progressive Data Analysis and Visualization Solutions](https://doi.org/10.48550/arXiv.2604.02096){:.pt}{:target="_blank"}
   <span class="pa">Filosa, Blasilli, Martino, and Angelini</span>
   <span class="pv">2026</span>
@@ -42,6 +43,11 @@ I am an Assistant Professor (RTD-A) in Computer Engineering at [Sapienza Univers
   <span class="pv">2026</span>
 
 #### Conference Papers
+
+- [VISPEK: a Visual Interactive System for Progressive Ensemble K-Means Clustering]([https://doi.org/10.1145/3811427.3811436)){:.pt}{:target="_blank"}
+  <span class="pa">Angelini, Blasilli, Cazzetta, Lenti, Palleschi, and Santucci</span>
+  <span class="pv">International Conference on Advanced Visual Interfaces (AVI), 2026</span>
+
 - [True (VIS) Lies: A Preliminary Analysis of How Generative AI is Capable of Recognizing Visualization Lies and their Rhetoric]([https://github.com/blasilli/TrueVISLies](https://visxgenai.github.io/subs-2025/9766/9766-doc.pdf)){:.pt}{:target="_blank"}
   <span class="pa">Blasilli and Angelini</span>
   <span class="pv">1st Workshop on GenAI, Agents, and the Future of VIS. IEEE VIS, 2025</span>
