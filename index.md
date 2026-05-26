@@ -70,7 +70,7 @@ I am an Assistant Professor (RTD-A) in Computer Engineering at [Sapienza Univers
   <span class="pv">EuroVis - Posters, 2019</span>
 - [NEMESIS (NEtwork MEdicine analySIS): Towards Visual Exploration of Network Medicine Data](https://doi.org/10.5220/0007577003220329){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Farina, Lenti, and Santucci</span>
-  <span class="pv">IEEE Symposium on Visualization for Cyber Security (VizSec), 2018</span>
+  <span class="pv">International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - IVAPP, 2019</span>
 - [Ropmate: Visually assisting the creation of rop-based exploits](https://doi.org/10.1109/VIZSEC.2018.8709204){:.pt}{:target="_blank"}
   <span class="pa">Angelini, Blasilli, Borrello, Coppa, D’Elia, Ferracci, Lenti, and Santucci</span>
   <span class="pv">IEEE Symposium on Visualization for Cyber Security (VizSec), 2018</span>
