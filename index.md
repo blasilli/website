@@ -7,6 +7,9 @@ I am a Post-Doc researcher in Computer Science and Engineering at [Sapienza Univ
 ## Publications
 
 #### Journal Papers
+- [Digital twin technologies in prostate cancer as a frontier for precision medicine]([https://doi.org/10.1111/cgf.70457](https://doi.org/10.1186/s41747-026-00753-8)){:.pt}{:target="_blank"}
+  <span class="pa">Pecoraro, Messina, Novelli, Laschena, Tronci, Blasilli, and Panebianco</span>
+  <span class="pv">European Radiology Experimental, 2026.</span>
 - [GEVIS: A Workflow-Driven Visual Analytics Approach to Differential Gene Expression Analysis](https://doi.org/10.1111/cgf.70457){:.pt}{:target="_blank"}
   <span class="pa">Blasilli, Fortunato, Santaroni, Fiscon, and Santucci</span>
   <span class="pv">Computer Graphics Forum, 2026.</span>
