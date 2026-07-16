@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-I am a Post-Doc researcher in Computer Science and Engineering at [Sapienza Università di Roma](https://www.uniroma1.it){:target="_blank"}, and a member of [A.W.A.RE](http://aware.diag.uniroma1.it){:target="_blank"} research group. My research interests include Visual Analytics and InfoVis, mainly applied to the eXpainable Artificial Intelligence (XAI) methods, to the cybersecurity domain, and medical domain.
+I am a Post-Doc researcher in Computer Science and Engineering at [Sapienza Università di Roma](https://www.uniroma1.it){:target="_blank"}, and a member of [A.W.A.RE](http://aware.diag.uniroma1.it){:target="_blank"} research group. My research interests include Visual Analytics and InfoVis, mainly applied to the eXpainable Artificial Intelligence (XAI) methods, to the cybersecurity domain, and the medical domain.
 
 <hr>
 ## Publications
 
 #### Journal Papers
-- [Digital twin technologies in prostate cancer as a frontier for precision medicine]([https://doi.org/10.1111/cgf.70457](https://doi.org/10.1186/s41747-026-00753-8)){:.pt}{:target="_blank"}
+- [Digital twin technologies in prostate cancer as a frontier for precision medicine](https://doi.org/10.1186/s41747-026-00753-8){:.pt}{:target="_blank"}
   <span class="pa">Pecoraro, Messina, Novelli, Laschena, Tronci, Blasilli, and Panebianco</span>
   <span class="pv">European Radiology Experimental, 2026.</span>
 - [GEVIS: A Workflow-Driven Visual Analytics Approach to Differential Gene Expression Analysis](https://doi.org/10.1111/cgf.70457){:.pt}{:target="_blank"}
