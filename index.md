@@ -7,6 +7,9 @@ I am a Post-Doc researcher in Computer Science and Engineering at [Sapienza Univ
 ## Publications
 
 #### Journal Papers
+- [ProVega: A Grammar to Ease the Prototyping, Creation, and Reproducibility of Progressive Data Analysis and Visualization Solutions](https://doi.org/10.48550/arXiv.2604.02096){:.pt}{:target="_blank"}
+  <span class="pa">Filosa, Blasilli, Martino, and Angelini</span>
+  <span class="pv">To appear in IEEE Transactions on Visualization and Computer Graphics, 2026</span>
 - [Digital twin technologies in prostate cancer as a frontier for precision medicine](https://doi.org/10.1186/s41747-026-00753-8){:.pt}{:target="_blank"}
   <span class="pa">Pecoraro, Messina, Novelli, Laschena, Tronci, Blasilli, and Panebianco</span>
   <span class="pv">European Radiology Experimental, 2026.</span>
@@ -90,9 +93,6 @@ I am a Post-Doc researcher in Computer Science and Engineering at [Sapienza Univ
 {:.pub .pub-conferences}
 
 #### Preprints
-- [ProVega: A Grammar to Ease the Prototyping, Creation, and Reproducibility of Progressive Data Analysis and Visualization Solutions](https://doi.org/10.48550/arXiv.2604.02096){:.pt}{:target="_blank"}
-  <span class="pa">Filosa, Blasilli, Martino, and Angelini</span>
-  <span class="pv">arXiv, 2026</span>
 - [True (VIS) Lies: Analyzing How Generative AI Recognizes Intentionality, Rhetoric, and Misleadingness in Visualization Lies](https://doi.org/10.48550/arXiv.2604.01181){:.pt}{:target="_blank"}
   <span class="pa">Blasilli and Angelini</span>
   <span class="pv">arXiv, 2026</span>
