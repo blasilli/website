@@ -4,6 +4,7 @@ layout: default
 I am a Post-Doc researcher in Computer Science and Engineering at [Sapienza Università di Roma](https://www.uniroma1.it){:target="_blank"}, and a member of [A.W.A.RE](http://aware.diag.uniroma1.it){:target="_blank"} research group. My research interests include Visual Analytics and InfoVis, mainly applied to the eXpainable Artificial Intelligence (XAI) methods, to the cybersecurity domain, and the medical domain.
 
 <hr>
+
 ## Publications
 
 #### Journal Papers
